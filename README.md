@@ -1,6 +1,6 @@
 # Computer Vision Basics 
 
-This repository contains my implementation of basic Computer Vision codes in Python and MATLAB. The implemented algorithms include:
+This repository contains my implementation of basic Computer Vision codes in Python. The implemented algorithms include:
 
 Python (OpenCV): 
 1. Watershed segmentation
